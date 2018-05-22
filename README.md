@@ -1,1 +1,4 @@
-# Open Kattis## Ruby### Problem
+# Open Kattis
+## Ruby
+### Problem
+* [Quick Brown Fox](https://open.kattis.com/problems/quickbrownfox)
