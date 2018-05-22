@@ -1,0 +1,1 @@
+# Open Kattis## Ruby### Problem
